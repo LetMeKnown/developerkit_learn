@@ -1,6 +1,0 @@
---cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"
--IE:\S32DS_WS\developerkit\MDK-ARM\RTE
--I"D:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"
--I"D:\Program Files (x86)\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\2.6.1\Drivers\CMSIS\Device\ST\STM32L4xx\Include"
---pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "STM32L496xx SETA 1"
---list port_c.lst --xref -o stm32l496agix\port_c_1.o --depend stm32l496agix\port_c_1.d "..\armv7m\armcc\m4\port_c.s"
