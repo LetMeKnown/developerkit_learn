@@ -1,0 +1,25 @@
+stm32l496agix\guidemo_conf.o: ..\GUIDEMO\GUIDEMO_Conf.c
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\GUI.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\GUI_ConfDefaults.h
+stm32l496agix\guidemo_conf.o: ..\Config\inc\GUIConf.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\GUI_Type.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\LCD.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\Global.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\GUI_Version.h
+stm32l496agix\guidemo_conf.o: ..\main\APP\inc\GUIDEMO.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\WM.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\WM_GUI.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\FRAMEWIN.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\WIDGET.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\WM_Intern.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\GUI_Private.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\LCD_Protected.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\GUI_Debug.h
+stm32l496agix\guidemo_conf.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\SCROLLBAR.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\DIALOG_Intern.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\WIDGET.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\PROGBAR.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\TEXT.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\SLIDER.h
+stm32l496agix\guidemo_conf.o: ..\GUI\STemWin\inc\GRAPH.h

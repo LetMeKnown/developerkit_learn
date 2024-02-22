@@ -1,0 +1,1 @@
+stm32l496agix\startup_stm32l496xx_keil.o: startup_stm32l496xx_keil.s
